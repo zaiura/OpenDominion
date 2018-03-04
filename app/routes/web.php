@@ -119,6 +119,13 @@ $router->group(['middleware' => 'auth'], function (Router $router) {
             $router->get('council/{thread}')->uses('Dominion\CouncilController@getThread')->name('council.thread');
             $router->post('council/{thread}/reply')->uses('Dominion\CouncilController@postReply')->name('council.reply');
 
+            // Government
+            $router->get('government')->uses('Dominion\GovernmentController@getIndex')->name('government');
+            // post: vote for monarch
+            // post: apply RG
+            // post: apply EG
+            // post: drop RG/EG
+
             // Rankings
             $router->get('rankings/{type?}')->uses('Dominion\RankingsController@getRankings')->name('rankings');
 
