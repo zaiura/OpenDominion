@@ -1,3 +1,88 @@
+<div class="box">
+    <div class="box-header with-border">
+        <h3 class="box-title"><i class="fa fa-bar-chart"></i> {{ $selectedDominion->name }} Overview</h3>
+    </div>
+    <div class="box-body">
+
+        <div class="row">
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Land:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($landCalculator->getTotalLand($selectedDominion)) }}</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Networth:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($networthCalculator->getDominionNetworth($selectedDominion)) }}</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Peasants:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->peasants) }}</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row" style="font-weight: bold">
+                    <div class="col-xs-6">Draftees:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->military_draftees) }}</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row" style="font-weight: bold">
+                    <div class="col-xs-6">Platinum:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->resource_platinum) }}</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Lumber:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->resource_lumber) }}</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Food:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->resource_food) }}</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Mana:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->resource_mana) }}</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Ore:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->resource_ore) }}</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-12 col-lg-6">
+                <div class="row">
+                    <div class="col-xs-6">Gems:</div>
+                    <div class="col-xs-6 text-right">{{ number_format($selectedDominion->resource_gems) }}</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<?php /*
 @if (isset($selectedDominion) && !Route::is('dominion.status'))
     <div class="box">
         <div class="box-header with-border">
@@ -62,3 +147,5 @@
         </div>
     </div>
 @endif
+*/ ?>
+

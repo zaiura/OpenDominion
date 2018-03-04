@@ -60,8 +60,6 @@
 
             @include('partials.alerts')
 
-            @include('partials.resources-overview')
-
             @yield('content')
 
         </section>
