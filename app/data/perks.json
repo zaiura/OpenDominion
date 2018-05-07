@@ -18,7 +18,14 @@
     { "key": "construction_cost" },
     { "key": "archmage_cost" },
     { "key": "boat_capacity" },
-    { "key": "immortal_wizard" }
+    { "key": "immortal_wizard" },
+    { "key": "plain_strength" },
+    { "key": "forest_strength" },
+    { "key": "swamp_strength" },
+    { "key": "mountain_strength" },
+    { "key": "hills_strength" },
+    { "key": "water_strength" },
+    { "key": "cavern_strength" },
   ],
   "unit_perk_types": [
     { "key": "fewer_casualties", "arguments": 1 },
