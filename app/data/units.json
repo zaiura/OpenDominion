@@ -55,10 +55,10 @@
       { "slot": 4, "name": "Valkyrie",    "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
     ],
     "Goblin": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 1, "name": "Raider", "cost": { "platinum":  325, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
+      { "slot": 2, "name": "Shaman",   "cost": { "platinum":  375, "ore":   15 }, "power": { "offense": 0, "defense": 3 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
+      { "slot": 3, "name": "Hob Goblin",   "cost": { "platinum": 1000, "ore":   80 }, "power": { "offense": 5, "defense": 3 }, "perk": { "key": "plunder", "values": [ 1 ] } },
+      { "slot": 4, "name": "Wolfrider",  "cost": { "platinum": 1300, "ore":  130 }, "power": { "offense": 6, "defense": 2 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
     ],
     "Troll": [
       { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
