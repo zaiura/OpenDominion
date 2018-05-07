@@ -73,10 +73,10 @@
       { "slot": 4, "name": "Spirit Warrior",  "cost": { "platinum": 1050, "ore":  55 }, "power": { "offense": 5.5, "defense": 0 }, "perk": { "key": "water_walk",    "values": [  1 ] }, "perk": { "key": "spirit_warrior",    "values": [  1 ] } }
     ],
     "Undead": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 1, "name": "keleton", "cost": { "platinum":  225, "ore":   0 }, "power": { "offense": 2.5, "defense": 0 }, "perk": { "key": "spirit_warrior",    "values": [  1 ] } },
+      { "slot": 2, "name": "Ghoul",   "cost": { "platinum":  225, "ore":   0 }, "power": { "offense": 0, "defense": 2.5 }, "perk": { "key": "spirit_warrior",    "values": [  1 ] } },
+      { "slot": 3, "name": "Progeny",   "cost": { "platinum": 900, "ore":   0 }, "power": { "offense": 2, "defense": 4 }, "perk": { "key": "water_walk",    "values": [  1 ] }, "perk": { "key": "spirit_warrior",    "values": [  1 ] }, "perk": { "key": "raise_undead",    "values": [  1 ] } },
+      { "slot": 4, "name": "Vampire",  "cost": { "platinum": 1000, "ore":  0 }, "power": { "offense": 4, "defense": 3 }, "perk": { "key": "water_walk",    "values": [  1 ] }, "perk": { "key": "spirit_warrior",    "values": [  1 ] }, "perk": { "key": "raise_undead",    "values": [  1 ] } }
     ],
     "Lycanthrope": [
       { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
