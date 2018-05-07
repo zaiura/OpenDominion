@@ -30,6 +30,7 @@
     { "key": "hills_strength",    "arguments": 1 },
     { "key": "water_strength",    "arguments": 1 },
     { "key": "cavern_strength",   "arguments": 1 },
+    { "key": "wizard_strength",   "arguments": 1 },
     { "key": "master_thief",      "arguments": 1 },
     { "key": "juggernaut",        "arguments": 1 },
     { "key": "water_walk",        "arguments": 1 },
@@ -37,6 +38,7 @@
     { "key": "dryad_wizard",      "arguments": 1 },
     { "key": "phoenix",           "arguments": 1 },
     { "key": "plunder",           "arguments": 1 },
-    { "key": "troll_rage",        "arguments": 1 }
+    { "key": "troll_rage",        "arguments": 1 },
+    { "key": "spirit_warrior",    "arguments": 1 },
   ]
 }
