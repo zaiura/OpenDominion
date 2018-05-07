@@ -32,6 +32,7 @@
     { "key": "cavern_strength",   "arguments": 1 },
     { "key": "master_thief",      "arguments": 1 },
     { "key": "juggernaut",        "arguments": 1 },
-    { "key": "water_walk",        "arguments": 1 }
+    { "key": "water_walk",        "arguments": 1 },
+    { "key": "sink_boat",      "arguments": 1 }
   ]
 }
