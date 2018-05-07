@@ -21,7 +21,8 @@
     { "key": "immortal_wizard" },
   ],
   "unit_perk_types": [
-    { "key": "fewer_casualties",  "arguments": 1 },
+    { "key": "fewer_offensive_casualties",  "arguments": 1 },
+    { "key": "fewer_defensive_casualties",  "arguments": 1 },
     { "key": "faster_return",     "arguments": 1 },
     { "key": "plain_strength",    "arguments": 1 },
     { "key": "forest_strength",   "arguments": 1 },
