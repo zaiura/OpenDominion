@@ -25,22 +25,22 @@
       { "slot": 4, "name": "Master_thief",  "cost": { "platinum": 900, "ore": 30 }, "power": { "offense": 2, "defense": 4 }, "perk": { "key": "master_thief",    "values": [  1 ] } }
     ],
     "Gnome": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 1, "name": "Suicide_squad", "cost": { "platinum":  200, "ore":   50 }, "power": { "offense": 4, "defense": 0 } },
+      { "slot": 2, "name": "Tinker",   "cost": { "platinum":  300, "ore":   5 }, "power": { "offense": 0, "defense": 3 } },
+      { "slot": 3, "name": "Rockapult",   "cost": { "platinum": 675, "ore":   330 }, "power": { "offense": 2, "defense": 4 }, "perk": { "key": "mountain_strength", "values": [ 20 ] } },
+      { "slot": 4, "name": "Juggernaut",  "cost": { "platinum": 775, "ore":  550 }, "power": { "offense": 5, "defense": 3 }, "perk": { "key": "juggernaut",    "values": [  1 ] } }
     ],
     "Merfolk": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 1, "name": "Merman", "cost": { "platinum":  275, "ore":   0 }, "power": { "offense": 3, "defense": 0 }, "perk": { "key": "water_walk", "values": [ 1 ] } },
+      { "slot": 2, "name": "Siren",   "cost": { "platinum":  300, "ore":   0 }, "power": { "offense": 0, "defense": 3 } },
+      { "slot": 3, "name": "Kraken",   "cost": { "platinum": 600, "ore":   0 }, "power": { "offense": 4, "defense": 2 }, "perk": { "key": "sink_boat", "values": [ 1 ] }, "perk": { "key": "water_walk", "values": [ 1 ] } },
+      { "slot": 4, "name": "Leviathan",  "cost": { "platinum": 1350, "ore":  0 }, "power": { "offense": 0, "defense": 7 }, "perk": { "key": "sink_boat", "values": [ 1 ] } }
     ],
     "Sylvan": [
       { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
       { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 } },
+      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 } }
     ],
     "Firewalker": [
       { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
