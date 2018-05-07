@@ -40,5 +40,6 @@
     { "key": "plunder",           "arguments": 1 },
     { "key": "troll_rage",        "arguments": 1 },
     { "key": "spirit_warrior",    "arguments": 1 },
+    { "key": "raise_undead",      "arguments": 1 }
   ]
 }
