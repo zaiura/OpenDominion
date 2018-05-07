@@ -16,7 +16,7 @@
     { "name": "Lycanthrope", "alignment": "evil", "home_land_type": "hills", "perks": [ { "key": "max_population", "value":  10 }, { "key": "defense", "value":  5 } ] },
     { "name": "Kobold", "alignment": "evil", "home_land_type": "caverns", "perks": [ { "key": "max_population", "value":  40 }, { "key": "population_growth", "value":  20 }, { "key": "food_consumption", "value":  -30 }, { "key": "spy_strength", "value":  -10 }, { "key": "wizard_strength", "value":  -10 }, { "key": "boat_capacity", "value":  10 } ] },
     { "name": "Lizardfolk", "alignment": "evil", "home_land_type": "water", "perks": [ { "key": "max_population", "value":  5 }, { "key": "spy_strength", "value":  10 }, { "key": "food_consumption", "value":  -15 } ] },
-    { "name": "Icekin", "alignment": "evil", "home_land_type": "mountain", "perks": [ { "key": "food_consumption", "value":  -50, { "key": "lumber_production", "value":  -10 }, { "key": "platinum_production", "value":  5 }, { "key": "archmage_cost", "value":  -150 } } ] },
+    { "name": "Icekin", "alignment": "evil", "home_land_type": "mountain", "perks": [ { "key": "food_consumption", "value":  -50 }, { "key": "lumber_production", "value":  -10 }, { "key": "platinum_production", "value":  5 }, { "key": "archmage_cost", "value":  -150 } } ] },
     { "name": "Orc", "alignment": "evil", "home_land_type": "plain", "perks": [ { "key": "food_consumption", "value":  20 }, { "key": "lumber_production", "value":  50 } ] },
     { "name": "Nox", "alignment": "evil", "home_land_type": "swamp", "perks": [ { "key": "mana_production", "value":  10 }, { "key": "food_consumption", "value":  -20 } ] }
   ]
