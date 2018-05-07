@@ -37,6 +37,6 @@
     { "key": "dryad_wizard",      "arguments": 1 },
     { "key": "phoenix",           "arguments": 1 },
     { "key": "plunder",           "arguments": 1 },
-    { "key": "reduce_casualty",   "arguments": 1 }
+    { "key": "troll_rage",        "arguments": 1 }
   ]
 }
