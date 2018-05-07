@@ -9,8 +9,8 @@
     "Dwarf": [
       { "slot": 1, "name": "Soldier", "cost": { "platinum":  275, "ore": 25 }, "power": { "offense": 3, "defense": 0 } },
       { "slot": 2, "name": "Miner",   "cost": { "platinum":  350, "ore": 25 }, "power": { "offense": 0, "defense": 3 }, "perk": { "key": "ore_production", "values": [ 0.5 ] } },
-      { "slot": 3, "name": "Cleric",   "cost": { "platinum": 800, "ore": 0 }, "power": { "offense": 3, "defense": 4 }, "perk": { "key": "fewer_casualties", "values": [ 25  ] }, "comment": { /*(x/(x+y)) / 2 where x is amount of clerics and y is all other defending units */ },
-      { "slot": 4, "name": "Warrior",  "cost": { "platinum": 1250, "ore": 110 }, "power": { "offense": 7, "defense": 2 }, }
+      { "slot": 3, "name": "Cleric",   "cost": { "platinum": 800, "ore": 0 }, "power": { "offense": 3, "defense": 4 }, "perk": { "key": "fewer_casualties", "values": [ 25  ] } },
+      { "slot": 4, "name": "Warrior",  "cost": { "platinum": 1250, "ore": 110 }, "power": { "offense": 7, "defense": 2 } }
     ],
     "Woodelf": [
       { "slot": 1, "name": "Ranger", "cost": { "platinum":  275, "ore": 25 }, "power": { "offense": 3, "defense": 0 } },
