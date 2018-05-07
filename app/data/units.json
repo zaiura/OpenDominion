@@ -37,10 +37,10 @@
       { "slot": 4, "name": "Leviathan",  "cost": { "platinum": 1350, "ore":  0 }, "power": { "offense": 0, "defense": 7 }, "perk": { "key": "sink_boat", "values": [ 1 ] } }
     ],
     "Sylvan": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 } }
+      { "slot": 1, "name": "Satyr", "cost": { "platinum":  275, "ore":   0 }, "power": { "offense": 3, "defense": 0 } },
+      { "slot": 2, "name": "Sprite",   "cost": { "platinum":  300, "ore":   0 }, "power": { "offense": 0, "defense": 3 } },
+      { "slot": 3, "name": "Dryad",   "cost": { "platinum": 1050, "ore":   0 }, "power": { "offense": 0, "defense": 3 }, "perk": { "key": "dryad_wizard", "values": [ 1 ] } },
+      { "slot": 4, "name": "Centaur",  "cost": { "platinum": 900, "ore":  90 }, "power": { "offense": 5, "defense": 2 }, "perk": { "key": "faster_return", "values": [ 3 ] }, "perk": { "key": "fewer_casualties", "values": [ 15 ] } }
     ],
     "Firewalker": [
       { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
