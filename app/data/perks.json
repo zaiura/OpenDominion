@@ -34,7 +34,9 @@
     { "key": "juggernaut",        "arguments": 1 },
     { "key": "water_walk",        "arguments": 1 },
     { "key": "sink_boat",         "arguments": 1 },
-    { "key": "Dryad_wizard",      "arguments": 1 },
-    { "key": "Phoenix",           "arguments": 1 }
+    { "key": "dryad_wizard",      "arguments": 1 },
+    { "key": "phoenix",           "arguments": 1 },
+    { "key": "plunder",           "arguments": 1 },
+    { "key": "reduce_casualty",   "arguments": 1 }
   ]
 }
