@@ -15,7 +15,8 @@
     { "key": "wizard_strength" },
     { "key": "invest_bonus" },
     { "key": "rezone_cost" },
-    { "key": "construction_cost" }
+    { "key": "construction_cost" },
+    { "key": "archmage_cost" }
   ],
   "unit_perk_types": [
     { "key": "fewer_casualties", "arguments": 1 },
