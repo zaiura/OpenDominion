@@ -40,6 +40,7 @@
     { "key": "phoenix",           "arguments": 1 },
     { "key": "hobgoblin",         "arguments": 1 },
     { "key": "troll_rage",        "arguments": 1 },
+    { "key": "darkelf_adept",     "arguments": 1 },
     { "key": "spirit_warrior",    "arguments": 1 },
     { "key": "raise_undead",      "arguments": 1 },
     { "key": "raise_wolf",        "arguments": 1 },
@@ -48,6 +49,7 @@
     { "key": "chameleon",         "arguments": 1 },
     { "key": "prestige",          "arguments": 1 },
     { "key": "bone_breaker",      "arguments": 1 },
-    { "key": "nightshade",        "arguments": 1 }
+    { "key": "nightshade",        "arguments": 1 },
+    { "key": "ice_elemental",     "arguments": 1 }
   ]
 }
