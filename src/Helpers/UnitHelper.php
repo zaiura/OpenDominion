@@ -34,14 +34,23 @@ class UnitHelper
     {
         $helpStrings = [
             'draftees' => 'Basic military unit.<br><br>Used for exploring and training other units.',
-            'unit1' => 'Offensive specialist.',
-            'unit2' => 'Defensive specialist.',
-            'unit3' => 'Defensive elite.',
-            'unit4' => 'Offensive elite.',
+            'unit1' => 'Offensive specialist. 3/0',
+            'unit2' => 'Defensive specialist. 0/3',
+            'unit3' => 'Defensive elite. 0/6',
+            'unit4' => 'Offensive elite. 6/3',
             'spies' => 'Used for espionage.',
             'wizards' => 'Used for casting offensive spells.',
             'archmages' => 'Used for casting offensive spells.<br><br>Immortal and twice as strong as regular wizards.',
         ];
+        /*
+        // Unit stats
+        // test hardcoded values first, or add stat variables to $helpStrings
+        $unitStatStrings = [
+            'unit1' => '3/0',
+            'unit2' => '0/3',
+            'unit3' => '0/6',
+            'unit4' => '6/3',       
+        ]; */
 
         // todo: refactor this. very inefficient
         $perkTypeStrings = [
