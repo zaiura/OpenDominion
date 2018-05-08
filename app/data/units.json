@@ -109,10 +109,10 @@
       { "slot": 4, "name": "Bone Breaker",  "cost": { "platinum": 1050, "ore":  105 }, "power": { "offense": 7, "defense": 2 }, "perk": { "key": "bone_breaker",    "values": [  1 ] } }
     ],
     "Nox": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 1, "name": "Imp", "cost": { "platinum":  300, "ore":   0 }, "power": { "offense": 3, "defense": 0 } },
+      { "slot": 2, "name": "Fiend",   "cost": { "platinum":  325, "ore":   25 }, "power": { "offense": 0, "defense": 3 } },
+      { "slot": 3, "name": "Nightshade",   "cost": { "platinum": 875, "ore":   100 }, "power": { "offense": 2, "defense": 6 }, "perk": { "key": "nightshade", "values": [ 1 ] } },
+      { "slot": 4, "name": "Lich",  "cost": { "platinum": 1050, "ore":  0 }, "power": { "offense": 6, "defense": 3 }, "perk": { "key": "fewer_casualties", "values": [ 50 ]  }
     ]
   }
 }
