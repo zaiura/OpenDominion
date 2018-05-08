@@ -36,9 +36,9 @@
     { "key": "juggernaut",        "arguments": 1 },
     { "key": "water_walk",        "arguments": 1 },
     { "key": "sink_boat",         "arguments": 1 },
-    { "key": "dryad_wizard",      "arguments": 1 },
+    { "key": "dryad",             "arguments": 1 },
     { "key": "phoenix",           "arguments": 1 },
-    { "key": "plunder",           "arguments": 1 },
+    { "key": "hobgoblin",         "arguments": 1 },
     { "key": "troll_rage",        "arguments": 1 },
     { "key": "spirit_warrior",    "arguments": 1 },
     { "key": "raise_undead",      "arguments": 1 },
@@ -47,6 +47,7 @@
     { "key": "kobald_overlord",   "arguments": 1 },
     { "key": "chameleon",         "arguments": 1 },
     { "key": "prestige",          "arguments": 1 },
-    { "key": "bone_breaker",      "arguments": 1 }
+    { "key": "bone_breaker",      "arguments": 1 },
+    { "key": "nightshade",        "arguments": 1 }
   ]
 }
