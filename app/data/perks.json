@@ -44,6 +44,7 @@
     { "key": "raise_undead",      "arguments": 1 },
     { "key": "raise_wolf",        "arguments": 1 },
     { "key": "kobald_beast",      "arguments": 1 },
-    { "key": "kobald_overlord",   "arguments": 1 }
+    { "key": "kobald_overlord",   "arguments": 1 },
+    { "key": "chameleon",         "arguments": 1 }
   ]
 }
