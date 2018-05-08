@@ -69,7 +69,7 @@
     "Darkelf": [
       { "slot": 1, "name": "Swordman", "cost": { "platinum":  325, "ore":   25 }, "power": { "offense": 4, "defense": 0 } },
       { "slot": 2, "name": "Gargoyle",   "cost": { "platinum":  300, "ore":   15 }, "power": { "offense": 0, "defense": 3 } },
-      { "slot": 3, "name": "Adept",   "cost": { "platinum": 1000, "ore":   55 }, "power": { "offense": 2, "defense": 4 }, "perk": { "key": "wizard_strength", "values": [ 1 ] } },
+      { "slot": 3, "name": "Adept",   "cost": { "platinum": 1000, "ore":   55 }, "power": { "offense": 2, "defense": 4 }, "perk": { "key": "darkelf_adept", "values": [ 1 ] } },
       { "slot": 4, "name": "Spirit Warrior",  "cost": { "platinum": 1050, "ore":  55 }, "power": { "offense": 5.5, "defense": 0 }, "perk": { "key": "water_walk",    "values": [  1 ] }, "perk": { "key": "spirit_warrior",    "values": [  1 ] } }
     ],
     "Undead": [
@@ -100,7 +100,7 @@
       { "slot": 1, "name": "Ice Beast", "cost": { "platinum":  300, "ore":   0 }, "power": { "offense": 3, "defense": 0 } },
       { "slot": 2, "name": "Snow Witch",   "cost": { "platinum":  350, "ore":   25 }, "power": { "offense": 0, "defense": 3 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
       { "slot": 3, "name": "Frost Mage",   "cost": { "platinum": 850, "ore":   100 }, "power": { "offense": 3, "defense": 3 }, "perk": { "key": "mountain_strength", "values": [ 1 ] } },
-      { "slot": 4, "name": "Ice Elemental",  "cost": { "platinum": 1100, "ore":  0 }, "power": { "offense": 4, "defense": 2 }, "perk": { "key": "wizard_strength",    "values": [  1 ] } }
+      { "slot": 4, "name": "Ice Elemental",  "cost": { "platinum": 1100, "ore":  0 }, "power": { "offense": 4, "defense": 2 }, "perk": { "key": "ice_elemental",    "values": [ 1 ] } }
     ],
     "Orc": [
       { "slot": 1, "name": "Savage", "cost": { "platinum":  375, "ore":   0 }, "power": { "offense": 4, "defense": 0 } },
