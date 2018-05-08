@@ -45,6 +45,8 @@
     { "key": "raise_wolf",        "arguments": 1 },
     { "key": "kobald_beast",      "arguments": 1 },
     { "key": "kobald_overlord",   "arguments": 1 },
-    { "key": "chameleon",         "arguments": 1 }
+    { "key": "chameleon",         "arguments": 1 },
+    { "key": "prestige",          "arguments": 1 },
+    { "key": "bone_breaker",      "arguments": 1 }
   ]
 }
