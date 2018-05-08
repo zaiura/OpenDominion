@@ -85,16 +85,16 @@
       { "slot": 4, "name": "Garou",  "cost": { "platinum": 1100, "ore":  110 }, "power": { "offense": 6, "defense": 0 }, "perk": { "key": "raise_wolf",    "values": [  1 ] } }
     ],
     "Kobold": [
-      { "slot": 1, "name": "Grunt", "cost": { "platinum":  235, "ore":   15 }, "power": { "offense": 2, "defense": 0 } },
-      { "slot": 2, "name": "Underling",   "cost": { "platinum":  245, "ore":   20 }, "power": { "offense": 0, "defense": 2 } },
+      { "slot": 1, "name": "Grunt", "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 2, "defense": 0 } },
+      { "slot": 2, "name": "Underling",   "cost": { "platinum":  275, "ore":   20 }, "power": { "offense": 0, "defense": 2 } },
       { "slot": 3, "name": "Beast",   "cost": { "platinum": 975, "ore":   0 }, "power": { "offense": 0, "defense": 3 } }, "perk": { "key": "kobald_beast", "values": [ 1 ] } },
       { "slot": 4, "name": "Overlord",  "cost": { "platinum": 875, "ore":  55 }, "power": { "offense": 3, "defense": 2 }, "perk": { "key": "kobald_overlord", "values": [ 1 ] } }
     ],
     "Lizardfolk": [
-      { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 2, "defense": 0 } },
-      { "slot": 2, "name": "Archer",   "cost": { "platinum":  275, "ore":   15 }, "power": { "offense": 0, "defense": 2 } },
-      { "slot": 3, "name": "Knight",   "cost": { "platinum": 1000, "ore":   75 }, "power": { "offense": 0, "defense": 3 }, "perk": { "key": "fewer_casualties", "values": [ 25 ] } },
-      { "slot": 4, "name": "Cavalry",  "cost": { "platinum": 1250, "ore":  100 }, "power": { "offense": 3, "defense": 3 }, "perk": { "key": "faster_return",    "values": [  3 ] } }
+      { "slot": 1, "name": "Reptile", "cost": { "platinum":  275, "ore":   0 }, "power": { "offense": 3, "defense": 0 }, "perk": { "key": "water_walk", "values": [ 1 ] } },
+      { "slot": 2, "name": "Serpent",   "cost": { "platinum":  275, "ore":   0 }, "power": { "offense": 0, "defense": 3 } },
+      { "slot": 3, "name": "Chameleon",   "cost": { "platinum": 900, "ore":   0 }, "power": { "offense": 4, "defense": 4 }, "perk": { "key": "water_walk", "values": [ 1 ] } },
+      { "slot": 4, "name": "Lizardman",  "cost": { "platinum": 1050, "ore":  0 }, "power": { "offense": 6, "defense": 2 }, "perk": { "key": "water_walk", "values": [ 1 ] }, "perk": { "key": "chameleon", "values": [ 1 ] } }
     ],
     "Icekin": [
       { "slot": 1, "name": "Spearman", "cost": { "platinum":  275, "ore":   25 }, "power": { "offense": 3, "defense": 0 } },
